@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cafeteria</string>
+    <string name="nombreusuario">usuario</string>
+    <string name="contraseña">constraseña</string>
+    <string name="iniciar">iniciar</string>
+    <string name="bienvenida">su cafeteria de preferencia</string>
+    <string name="comprar">comprar</string>
+</resources>
