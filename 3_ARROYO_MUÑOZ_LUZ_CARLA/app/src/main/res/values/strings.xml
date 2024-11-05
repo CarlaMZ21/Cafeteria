@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Liga MX</string>
+    <string name="titulo">Liga MX</string>
+    <string name="carga">cargando juego ...</string>
+    <string name="version">version 1.0.0</string>
+    <string name="registro_equipo">registro de equipo</string>
+    <string name="consulta_equipos">consulta equipos</string>
+    <string name="consulta_partidos" />
+    <string name="realizar_apuesta">apostar</string>
+    <string name="vover">atras</string>
+    <string name="registroequipo">Registro de Equipo</string>
+    <string name="registrouno">Registrar Equipo</string>
+    <string name="consultaequipos">Consulta de equipos registrados</string>
+    <string name="consultaequiposmx">Equipos jugadores de la Liga MX</string>
+    <string name="mostarequipos">No hay equipos registrados</string>
+    <string name="partidosajugar">Próximos Partidos</string>
+    <string name="apuestas">Apuestas</string>
+</resources>
